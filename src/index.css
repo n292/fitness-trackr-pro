@@ -45,3 +45,6 @@ ol {
 p[role="alert"] {
   color: red;
 }
+li button {
+  margin-left: 0.5rem;
+}
